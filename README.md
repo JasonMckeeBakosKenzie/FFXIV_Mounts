@@ -1,0 +1,1 @@
+Project to grab API data from Final Fantasy XIV 
